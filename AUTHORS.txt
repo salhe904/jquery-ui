@@ -5,7 +5,7 @@ individuals. For exact contribution history, see the revision history
 and logs, available at http://github.com/jquery/jquery-ui
 
 Nicolas
-Salva
+Salva hm
 Paul Bakaus (paulbakaus.com)
 David Bolter
 Rich Caloggero
